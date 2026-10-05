@@ -13,7 +13,7 @@ It summarises which stocks are being discussed and uses public account age/karma
 ## API usage
 - OAuth app-only (client credentials), read-only.
 - ~5–10 requests per minute, well under Reddit's limits; honours rate-limit headers.
-- User-Agent: `linux:subwatch-personal:0.1 (by /u/pawariton)`.
+- User-Agent: `linux:subwatch-personal:0.1 (by /u/Squidget_Pawarit)`.
 
 ## Data handling
 - Private, single user. Never shared, published or sold.
